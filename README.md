@@ -8,7 +8,18 @@ To analyze employee satisfaction trends and provide data-driven recommendations 
 
 
 ## Dashboard Design
-![D]
+The initial layout and planning of the dashboard are shown below:
+
+![Dashboard Design](img/dashboard-design.png)
+
+This design outlines the structure used to answer key business questions related to employee satisfaction.
+
+
+
+
+
+
+
 ## Dashboard Link
 View here:View here:
 [Tableau - Employee Satisfaction Analysis](https://public.tableau.com/app/profile/emmanuel.emedeke/viz/EmployeeSatisfactionAnalysis_17590754034510/InsightsforLeadershipDecision-Making)
