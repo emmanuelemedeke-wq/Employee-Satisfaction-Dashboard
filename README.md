@@ -7,26 +7,25 @@ Tableau dashboard analyzing employee satisfaction trends to support data-driven 
 To analyze employee satisfaction trends and provide data-driven recommendations to improve retention and engagement.
 
 
-## Dashboard Design
-The initial layout and planning of the dashboard are shown below:
+## Tableau Dashboard
+The initial layout and planning of the dashboard designs are shown below:
 
 ![Dashboard Design](img/dashboard-design.png)
 
 This design outlines the structure used to answer key business questions related to employee satisfaction.
 
+View the interactive dashboard here:
+[Employee Satisfaction Analysis (Tableau Public)](https://public.tableau.com/app/profile/emmanuel.emedeke/viz/EmployeeSatisfactionAnalysis_17590754034510/InsightsforLeadershipDecision-Making)
 
 
 
-
-
-
-## Dashboard Link
-View here:
-[Tableau - Employee Satisfaction Analysis](https://public.tableau.com/app/profile/emmanuel.emedeke/viz/EmployeeSatisfactionAnalysis_17590754034510/InsightsforLeadershipDecision-Making)
 
 ## Business Impact
 This dashboard helps leadership identify departments with low employee satisfaction, understand key drivers of dissatisfaction, and make data-driven decisions to improve retention. It also provides insights into benefits and commute challenges, enabling organizations to optimize workplace policies and enhance overall employee experience.
 
+## Conclusion
+
+This project demonstrates how data visualization can be used to uncover key drivers of employee satisfaction and support strategic decision-making.
 
 
 
