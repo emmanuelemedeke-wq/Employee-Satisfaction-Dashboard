@@ -21,7 +21,7 @@ This design outlines the structure used to answer key business questions related
 
 
 ## Dashboard Link
-View here:View here:
+View here:
 [Tableau - Employee Satisfaction Analysis](https://public.tableau.com/app/profile/emmanuel.emedeke/viz/EmployeeSatisfactionAnalysis_17590754034510/InsightsforLeadershipDecision-Making)
 
 ## Business Impact
