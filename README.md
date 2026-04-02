@@ -25,7 +25,8 @@ View here:
 [Tableau - Employee Satisfaction Analysis](https://public.tableau.com/app/profile/emmanuel.emedeke/viz/EmployeeSatisfactionAnalysis_17590754034510/InsightsforLeadershipDecision-Making)
 
 ## Business Impact
-This dashboard helps leadership improve retention by focusing on benefits, commute solutions, and department-level strategies.
+This dashboard helps leadership identify departments with low employee satisfaction, understand key drivers of dissatisfaction, and make data-driven decisions to improve retention. It also provides insights into benefits and commute challenges, enabling organizations to optimize workplace policies and enhance overall employee experience.
+
 
 
 
@@ -37,3 +38,4 @@ This dashboard helps leadership improve retention by focusing on benefits, commu
 ## Tools Used
 - Tableau Public
 - Excel (data preparation)
+- Data Visualization
